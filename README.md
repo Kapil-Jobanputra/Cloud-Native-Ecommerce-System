@@ -1,7 +1,7 @@
 # 🛒 Cloud-Native E-commerce System
 
-**Cloud-Native Microservices Development with Docker and Web UI Integration**  
-**Tech Stack:** Docker · Flask · Node.js · MongoDB · PostgreSQL · REST · Docker Compose · Bootstrap · AWS
+Cloud-Native Microservices Development with Docker and Web UI Integration  
+Tech Stack: Docker · Flask · Node.js · MongoDB · PostgreSQL · REST · Docker Compose · Bootstrap · AWS
 ---
 
 ## 📘 Overview
