@@ -27,6 +27,7 @@ cloud-native-ecommerce-system/
  ├── docker/ # Dockerfiles and Docker Compose configurations
 
  ├── services/
+ 
  │    ├── user/       # User service (Flask)
  │    ├── product/    # Product service (Node.js)
  │    ├── order/      # Order service (Node.js)
