@@ -46,7 +46,7 @@ cloud-native-ecommerce-system/
 ## 🚀 How to Run Locally
 ```bash
 # Clone repository
-git clone https://github.com/YourUsername/cloud-native-ecommerce-system.git
+git clone https://github.com/Kapil-Jobanputra/cloud-native-ecommerce-system.git
 
 # Navigate into the project
 cd cloud-native-ecommerce-system
